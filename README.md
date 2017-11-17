@@ -1,10 +1,10 @@
-#Coding in C/C++ Examples
+# Coding in C/C++ Examples
 
 This is a bunch of coding examples from teaching my brother to code.
 
-##Useful Git Commands
+## Useful Git Commands
 
-#####Uploading a file to the Repo
+##### Uploading a file to the Repo
 
 To add myFile.cpp to github use the following
 
@@ -17,7 +17,7 @@ git push
 
 ```
 
-#####Updating the files on your computer
+##### Updating the files on your computer
 
 Type this into the git bash terminal.
 
@@ -25,7 +25,7 @@ Type this into the git bash terminal.
 git pull
 ```
 
-##Compiling and Running C/C++ code
+## Compiling and Running C/C++ code
 
 To compile myFile.cpp with g++ type:
 
